@@ -22,14 +22,6 @@
     background-color: blue;
     color: white;
 }
-.text{
-    float: right;
-  padding: 6px;
-  border: none;
-  margin-top: 0px;
-  margin-right: 16px;
-  font-size: 15px;
-}
 body {
     font-family: "Lato", sans-serif;
   }
